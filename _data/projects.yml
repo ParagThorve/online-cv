@@ -1,11 +1,10 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: 
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Webpage Using HTML CSS
+  link: "https://paragthorve.github.io/basic-html-css-tags/"
+  tagline: "Simple website to show how to various HTML tags and CSS"
 - project:
   title: DevStudio
   link: "#"
