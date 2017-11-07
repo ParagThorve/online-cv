@@ -12,8 +12,8 @@
 - project:
   title: Book Record Management
   link: ""
-  tagline: "Front End : HTML, CSS 
-            Back End : PHP, MySql
-            Operatins : Insert, View, Delete and Update Record
-            Table : book
+  tagline: "Front End : HTML, CSS <br>
+            Back End : PHP, MySql <br>
+            Operatins : Insert, View, Delete and Update Record <br>
+            Table : book <br>
             Column : BookId(Primary Key), Title(NOT NULL), Price(NOT NULL), Author"
