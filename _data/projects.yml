@@ -2,10 +2,18 @@
   description: 
 
 - project:
-  title: Webpage Using HTML CSS
+  title: Webpage Using HTML CSS (click for details)
   link: "https://paragthorve.github.io/basic-html-css-tags/"
   tagline: "Simple website to show how to various HTML tags and CSS"
 - project:
-  title: Webpage Using Angular
+  title: Webpage Using Angular (click for details)
   link: "https://paragthorve.github.io/angular/"
   tagline: "A webpage is created with the help of angularJs"
+- project:
+  title: Book Record Management
+  link: ""
+  tagline: "Front End : HTML, CSS 
+            Back End : PHP, MySql
+            Operatins : Insert, View, Delete and Update Record
+            Table : book
+            Column : BookId(Primary Key), Title(NOT NULL), Price(NOT NULL), Author"
