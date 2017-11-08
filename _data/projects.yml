@@ -4,7 +4,11 @@
 - project:
   title: Webpage Using HTML CSS <sub> (click for details)</sub>
   link: "https://paragthorve.github.io/basic-html-css-tags/"
-  tagline: "Simple website to show how to various HTML tags and CSS"
+  tagline: "Simple website to show how to use various HTML tags and CSS"
+- project:
+  title: Webpage Using JavaScript <sub> (click for details)</sub>
+  link: "https://paragthorve.github.io/js/"
+  tagline: "Simple website to show use of JavaScript"
 - project:
   title: Webpage Using Angular <sub> (click for details)</sub>
   link: "https://paragthorve.github.io/angular/"
